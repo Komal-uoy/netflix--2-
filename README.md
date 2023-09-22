@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This project is a simple Netlix clone created using HTML and CSS only. It's static web page that mimics the Netflix user interface
+This project is a simple Netflix clone created using HTML and CSS only. It's static web page that mimics the Netflix user interface.
 
 
 ## Features
